@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:grocery_store/features/cart/bloc/cart_bloc.dart';
 import 'package:grocery_store/features/cart/ui/cart_tile_widget.dart';
-import 'package:grocery_store/features/home/ui/product_tile_widget.dart';
 
 class Cart extends StatefulWidget {
   const Cart({super.key});
